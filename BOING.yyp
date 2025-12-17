@@ -52,7 +52,6 @@
     {"id":{"name":"obj_raquete_esq","path":"objects/obj_raquete_esq/obj_raquete_esq.yy",},},
     {"id":{"name":"obj_setinhas","path":"objects/obj_setinhas/obj_setinhas.yy",},},
     {"id":{"name":"obj_titulo","path":"objects/obj_titulo/obj_titulo.yy",},},
-    {"id":{"name":"pinto","path":"objects/pinto/pinto.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"id":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
