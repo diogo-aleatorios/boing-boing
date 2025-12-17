@@ -1,0 +1,3 @@
+/// @descr 
+
+mouse = 0
